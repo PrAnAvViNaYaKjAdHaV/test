@@ -1,5 +1,0 @@
-{{#user}}
-Name: pranav jadhav
-Skills: HTML, CSS, JS, react , redux 
-Email: pranavvjadhav15@gmail.com
-{{/user}
